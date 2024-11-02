@@ -1,0 +1,335 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|c:\\users\\bett\\source\\repos\\schoolmanagment\\schoolmanagment\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|solutionrelative:schoolmanagment\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|C:\\Users\\BETT\\source\\repos\\SchoolManagment\\schoolmanagment\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|solutionrelative:schoolmanagment\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|c:\\users\\bett\\source\\repos\\schoolmanagment\\schoolmanagment\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|solutionrelative:schoolmanagment\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|C:\\Users\\BETT\\source\\repos\\SchoolManagment\\schoolmanagment\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|solutionrelative:schoolmanagment\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|c:\\users\\bett\\source\\repos\\schoolmanagment\\schoolmanagment\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|solutionrelative:schoolmanagment\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|c:\\users\\bett\\source\\repos\\schoolmanagment\\schoolmanagment\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|solutionrelative:schoolmanagment\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|C:\\Users\\BETT\\source\\repos\\SchoolManagment\\schoolmanagment\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|solutionrelative:schoolmanagment\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|c:\\users\\bett\\source\\repos\\schoolmanagment\\schoolmanagment\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|solutionrelative:schoolmanagment\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|C:\\Users\\BETT\\source\\repos\\SchoolManagment\\schoolmanagment\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|solutionrelative:schoolmanagment\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|c:\\users\\bett\\source\\repos\\schoolmanagment\\schoolmanagment\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|solutionrelative:schoolmanagment\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|c:\\users\\bett\\source\\repos\\schoolmanagment\\schoolmanagment\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|solutionrelative:schoolmanagment\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|c:\\users\\bett\\source\\repos\\schoolmanagment\\schoolmanagment\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|solutionrelative:schoolmanagment\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|C:\\Users\\BETT\\source\\repos\\SchoolManagment\\schoolmanagment\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|solutionrelative:schoolmanagment\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|C:\\Users\\BETT\\source\\repos\\SchoolManagment\\schoolmanagment\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|solutionrelative:schoolmanagment\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|C:\\Users\\BETT\\source\\repos\\SchoolManagment\\schoolmanagment\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|solutionrelative:schoolmanagment\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|C:\\Users\\BETT\\source\\repos\\SchoolManagment\\schoolmanagment\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|solutionrelative:schoolmanagment\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|c:\\users\\bett\\source\\repos\\schoolmanagment\\schoolmanagment\\teacher.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|solutionrelative:schoolmanagment\\teacher.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|c:\\users\\bett\\source\\repos\\schoolmanagment\\schoolmanagment\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|solutionrelative:schoolmanagment\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|c:\\users\\bett\\source\\repos\\schoolmanagment\\schoolmanagment\\student.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A003B258-A5E8-4118-AAFF-7174E79D208B}|SchoolManagment\\SchoolManagment.csproj|solutionrelative:schoolmanagment\\student.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Dashboard.cs",
+              "RelativeDocumentMoniker": "SchoolManagment\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Dashboard.cs",
+              "RelativeToolTip": "SchoolManagment\\Dashboard.cs",
+              "ViewState": "AgIAAEYAAAAAMzMzMzMfwE0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T19:05:57.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Dashboard.cs",
+              "RelativeDocumentMoniker": "SchoolManagment\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Dashboard.cs [Design]",
+              "RelativeToolTip": "SchoolManagment\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T18:07:09.667Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Attendance.cs",
+              "RelativeDocumentMoniker": "SchoolManagment\\Attendance.cs",
+              "ToolTip": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Attendance.cs",
+              "RelativeToolTip": "SchoolManagment\\Attendance.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAkwDQAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:33:16.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Attendance.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Attendance.cs",
+              "RelativeDocumentMoniker": "SchoolManagment\\Attendance.cs",
+              "ToolTip": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Attendance.cs [Design]",
+              "RelativeToolTip": "SchoolManagment\\Attendance.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:22:50.676Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Student.cs",
+              "RelativeDocumentMoniker": "SchoolManagment\\Student.cs",
+              "ToolTip": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Student.cs",
+              "RelativeToolTip": "SchoolManagment\\Student.cs",
+              "ViewState": "AgIAAJMAAAAAzMzMzMwEwKQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:53:16.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Main.cs",
+              "RelativeDocumentMoniker": "SchoolManagment\\Main.cs",
+              "ToolTip": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Main.cs [Design]",
+              "RelativeToolTip": "SchoolManagment\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:14:45.554Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Main.cs",
+              "RelativeDocumentMoniker": "SchoolManagment\\Main.cs",
+              "ToolTip": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Main.cs",
+              "RelativeToolTip": "SchoolManagment\\Main.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwEQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:14:50.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Enrollment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Enrollment.cs",
+              "RelativeDocumentMoniker": "SchoolManagment\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Enrollment.cs [Design]",
+              "RelativeToolTip": "SchoolManagment\\Enrollment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T10:44:23.932Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Enrollment.cs",
+              "RelativeDocumentMoniker": "SchoolManagment\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Enrollment.cs",
+              "RelativeToolTip": "SchoolManagment\\Enrollment.cs",
+              "ViewState": "AgIAAK0AAAAAmZmZmZkhwKcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T10:52:12.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Teacher.cs",
+              "RelativeDocumentMoniker": "SchoolManagment\\Teacher.cs",
+              "ToolTip": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Teacher.cs",
+              "RelativeToolTip": "SchoolManagment\\Teacher.cs",
+              "ViewState": "AgIAAG8AAAAAZWZmZmYowE0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:28:30.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Section.cs",
+              "DocumentMoniker": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Section.cs",
+              "RelativeDocumentMoniker": "SchoolManagment\\Section.cs",
+              "ToolTip": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Section.cs",
+              "RelativeToolTip": "SchoolManagment\\Section.cs",
+              "ViewState": "AgIAADIAAAAAMzMzMzMjwEsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:58:20.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Main.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Main.Designer.cs",
+              "RelativeDocumentMoniker": "SchoolManagment\\Main.Designer.cs",
+              "ToolTip": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Main.Designer.cs",
+              "RelativeToolTip": "SchoolManagment\\Main.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:14:37.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Section.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Section.cs",
+              "RelativeDocumentMoniker": "SchoolManagment\\Section.cs",
+              "ToolTip": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Section.cs [Design]",
+              "RelativeToolTip": "SchoolManagment\\Section.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:37:45.439Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Student.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Student.cs",
+              "RelativeDocumentMoniker": "SchoolManagment\\Student.cs",
+              "ToolTip": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Student.cs [Design]",
+              "RelativeToolTip": "SchoolManagment\\Student.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:52:59.811Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Teacher.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Teacher.cs",
+              "RelativeDocumentMoniker": "SchoolManagment\\Teacher.cs",
+              "ToolTip": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Teacher.cs [Design]",
+              "RelativeToolTip": "SchoolManagment\\Teacher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T05:56:01.317Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Subject.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Subject.cs",
+              "RelativeDocumentMoniker": "SchoolManagment\\Subject.cs",
+              "ToolTip": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Subject.cs [Design]",
+              "RelativeToolTip": "SchoolManagment\\Subject.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T19:45:34.666Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Teacher.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Teacher.Designer.cs",
+              "RelativeDocumentMoniker": "SchoolManagment\\Teacher.Designer.cs",
+              "ToolTip": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Teacher.Designer.cs",
+              "RelativeToolTip": "SchoolManagment\\Teacher.Designer.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAswGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:12:53.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Subject.cs",
+              "RelativeDocumentMoniker": "SchoolManagment\\Subject.cs",
+              "ToolTip": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Subject.cs",
+              "RelativeToolTip": "SchoolManagment\\Subject.cs",
+              "ViewState": "AgIAAF8AAADA//////8TwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T20:47:59.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Student.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Student.Designer.cs",
+              "RelativeDocumentMoniker": "SchoolManagment\\Student.Designer.cs",
+              "ToolTip": "C:\\Users\\BETT\\source\\repos\\SchoolManagment\\SchoolManagment\\Student.Designer.cs",
+              "RelativeToolTip": "SchoolManagment\\Student.Designer.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:10:23.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\BETT\Desktop\PROJECTS\SchoolManagment.exe
+C:\Users\BETT\Desktop\PROJECTS\SchoolManagment.dll
+C:\Users\BETT\Desktop\PROJECTS\SchoolManagment.deps.json
+C:\Users\BETT\Desktop\PROJECTS\SchoolManagment.runtimeconfig.json
+C:\Users\BETT\Desktop\PROJECTS\SchoolManagment.pdb
+C:\Users\BETT\Desktop\PROJECTS\System.Data.SqlClient.dll
+C:\Users\BETT\Desktop\PROJECTS\runtimes\win-arm64\native\sni.dll
+C:\Users\BETT\Desktop\PROJECTS\runtimes\win-x64\native\sni.dll
+C:\Users\BETT\Desktop\PROJECTS\runtimes\win-x86\native\sni.dll
+C:\Users\BETT\Desktop\PROJECTS\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\BETT\Desktop\PROJECTS\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
